@@ -1,5 +1,5 @@
 # Efficacy and reversibility of PZP fertility control in Przewalski's horses
-Code and main results for the project assessing the results & implications of Porcine Zona Pellucida contraception as a management protocol in the Przewalski's horse herd of Hortobágy, Hungary.
+Code and main results for the project assessing the results & implications of Porcine Zona Pellucida contraception as a management protocol in the Przewalski's horse herd of Hortobágy, Hungary. Raw data is available upon reasonable request.
 
 ## Summary of the project
 Populations of large grazers, such as horses or deer often live in areas with no or limited predation, which can lead to unsustainable population growth, reduced individual health and escalating human-wildlife conflicts. Therefore, managers are often required to intervene to reduce the number of individuals. Culling, however, is a controversial and at times unfeasible method. Fertility control, such as PZP, offers a viable, humane alternative to manage these populations, but its efficacy and long-term effects under field conditions are underexplored. 
